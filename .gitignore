@@ -3,8 +3,8 @@ page-mappings.txt
 core                              
 percussion-content-2017-06-23     
 create-package.sh                 
-percussion-content-2017-06-23.zip 
-file-mappings.txt                                   
+percussion-content-2017-06-23.zip                                    
 source
 filter.xml                                 
 target
+properties.xml
