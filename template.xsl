@@ -14,7 +14,6 @@
 					<xsl:value-of select="root/pageContent/field[@name='rx:www_metatags']" />
 				</xsl:attribute>
 				<par
-					jcr:primaryType="nt:unstructured"
 					sling:resourceType="wcm/foundation/components/parsys">
 					<title
 						jcr:primaryType="nt:unstructured"
